@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 shikoni = {path = "./../shikoni"}
 install = "*"
+speechrecognition = "*"
+pyaudio = ">=0.2.11"
+whisper = "*"
+openai = "*"
 
 [dev-packages]
 

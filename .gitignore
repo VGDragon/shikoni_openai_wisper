@@ -1,1 +1,4 @@
-/temp/
+/temp/*
+!/temp/.gitkeep
+/models/*
+!/models/.gitkeep
