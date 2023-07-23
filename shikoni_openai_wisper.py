@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import argparse
 
 from shikoni.ShikoniClasses import ShikoniClasses
